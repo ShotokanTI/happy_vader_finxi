@@ -1,0 +1,10 @@
+@font-face{
+}
+body{
+    height: 100vh;
+    overflow-y: scroll;
+    font-family: "Starjedi";
+    background-color: #121212;
+    margin: 0px auto;
+    padding: 0px;
+}
