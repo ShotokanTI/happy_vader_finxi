@@ -3,8 +3,8 @@
     <i class="close icon"></i>
     <div class="header">Edição de gif</div>
     <div style="width: 100%" class="image content">
-      <form action="" id="editGif">
-        <div style="width: 100%" class="container-form">
+      <form style="width:100%" action="" id="editGif">
+        <div class="container-form">
           <div class="ui input">
             <div class="content-column ui input">
               <label for="nome">Nome Gif</label>
